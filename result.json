@@ -1,0 +1,349 @@
+{
+  "tasks": {
+    "results": [
+      {
+        "uid": 107,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.526006300S",
+        "enqueuedAt": "2022-09-15T17:28:31.4398592Z",
+        "startedAt": "2022-09-15T17:28:31.4463139Z",
+        "finishedAt": "2022-09-15T17:28:31.9723202Z"
+      },
+      {
+        "uid": 106,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.520472100S",
+        "enqueuedAt": "2022-09-15T17:28:30.4385678Z",
+        "startedAt": "2022-09-15T17:28:30.445037Z",
+        "finishedAt": "2022-09-15T17:28:30.9655091Z"
+      },
+      {
+        "uid": 105,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.516271800S",
+        "enqueuedAt": "2022-09-15T17:28:29.4380702Z",
+        "startedAt": "2022-09-15T17:28:29.4444503Z",
+        "finishedAt": "2022-09-15T17:28:29.9607221Z"
+      },
+      {
+        "uid": 104,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.528990800S",
+        "enqueuedAt": "2022-09-15T17:28:28.4365957Z",
+        "startedAt": "2022-09-15T17:28:28.4428174Z",
+        "finishedAt": "2022-09-15T17:28:28.9718082Z"
+      },
+      {
+        "uid": 103,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.534165700S",
+        "enqueuedAt": "2022-09-15T17:28:27.4363552Z",
+        "startedAt": "2022-09-15T17:28:27.4446393Z",
+        "finishedAt": "2022-09-15T17:28:27.978805Z"
+      },
+      {
+        "uid": 102,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.520073700S",
+        "enqueuedAt": "2022-09-15T17:28:26.434894Z",
+        "startedAt": "2022-09-15T17:28:26.44122Z",
+        "finishedAt": "2022-09-15T17:28:26.9612937Z"
+      },
+      {
+        "uid": 101,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.521142100S",
+        "enqueuedAt": "2022-09-15T17:28:25.4334196Z",
+        "startedAt": "2022-09-15T17:28:25.439877Z",
+        "finishedAt": "2022-09-15T17:28:25.9610191Z"
+      },
+      {
+        "uid": 100,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.516206S",
+        "enqueuedAt": "2022-09-15T17:28:24.4329513Z",
+        "startedAt": "2022-09-15T17:28:24.4393083Z",
+        "finishedAt": "2022-09-15T17:28:24.9555143Z"
+      },
+      {
+        "uid": 99,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.514600300S",
+        "enqueuedAt": "2022-09-15T17:28:23.4316615Z",
+        "startedAt": "2022-09-15T17:28:23.4380711Z",
+        "finishedAt": "2022-09-15T17:28:23.9526714Z"
+      },
+      {
+        "uid": 98,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.517954500S",
+        "enqueuedAt": "2022-09-15T17:28:22.4309102Z",
+        "startedAt": "2022-09-15T17:28:22.4375283Z",
+        "finishedAt": "2022-09-15T17:28:22.9554828Z"
+      },
+      {
+        "uid": 97,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.515112600S",
+        "enqueuedAt": "2022-09-15T17:28:21.4293634Z",
+        "startedAt": "2022-09-15T17:28:21.4374665Z",
+        "finishedAt": "2022-09-15T17:28:21.9525791Z"
+      },
+      {
+        "uid": 96,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.527758200S",
+        "enqueuedAt": "2022-09-15T17:28:20.42899Z",
+        "startedAt": "2022-09-15T17:28:20.4354566Z",
+        "finishedAt": "2022-09-15T17:28:20.9632148Z"
+      },
+      {
+        "uid": 95,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.518432100S",
+        "enqueuedAt": "2022-09-15T17:28:19.4282943Z",
+        "startedAt": "2022-09-15T17:28:19.4347077Z",
+        "finishedAt": "2022-09-15T17:28:19.9531398Z"
+      },
+      {
+        "uid": 94,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 1, "indexedDocuments": 1 },
+        "duration": "PT0.535399800S",
+        "enqueuedAt": "2022-09-15T17:28:18.4276652Z",
+        "startedAt": "2022-09-15T17:28:18.4339339Z",
+        "finishedAt": "2022-09-15T17:28:18.9693337Z"
+      },
+      {
+        "uid": 93,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.756428900S",
+        "enqueuedAt": "2022-09-15T17:27:56.5710495Z",
+        "startedAt": "2022-09-15T17:27:57.1794531Z",
+        "finishedAt": "2022-09-15T17:27:57.935882Z"
+      },
+      {
+        "uid": 92,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT1.215238200S",
+        "enqueuedAt": "2022-09-15T17:27:55.9488735Z",
+        "startedAt": "2022-09-15T17:27:55.9553032Z",
+        "finishedAt": "2022-09-15T17:27:57.1705414Z"
+      },
+      {
+        "uid": 91,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.727745500S",
+        "enqueuedAt": "2022-09-15T17:27:54.7827425Z",
+        "startedAt": "2022-09-15T17:27:55.0574905Z",
+        "finishedAt": "2022-09-15T17:27:55.785236Z"
+      },
+      {
+        "uid": 90,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.647528800S",
+        "enqueuedAt": "2022-09-15T17:27:54.0913219Z",
+        "startedAt": "2022-09-15T17:27:54.4034943Z",
+        "finishedAt": "2022-09-15T17:27:55.0510231Z"
+      },
+      {
+        "uid": 89,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.608816600S",
+        "enqueuedAt": "2022-09-15T17:27:53.4940972Z",
+        "startedAt": "2022-09-15T17:27:53.7879486Z",
+        "finishedAt": "2022-09-15T17:27:54.3967652Z"
+      },
+      {
+        "uid": 88,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.831537800S",
+        "enqueuedAt": "2022-09-15T17:27:52.942885Z",
+        "startedAt": "2022-09-15T17:27:52.9490605Z",
+        "finishedAt": "2022-09-15T17:27:53.7805983Z"
+      },
+      {
+        "uid": 87,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.511103800S",
+        "enqueuedAt": "2022-09-15T17:27:52.4082502Z",
+        "startedAt": "2022-09-15T17:27:52.4145897Z",
+        "finishedAt": "2022-09-15T17:27:52.9256935Z"
+      },
+      {
+        "uid": 86,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.447179700S",
+        "enqueuedAt": "2022-09-15T17:27:51.8364523Z",
+        "startedAt": "2022-09-15T17:27:51.8426647Z",
+        "finishedAt": "2022-09-15T17:27:52.2898444Z"
+      },
+      {
+        "uid": 85,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.607307600S",
+        "enqueuedAt": "2022-09-15T17:27:51.1745099Z",
+        "startedAt": "2022-09-15T17:27:51.1838947Z",
+        "finishedAt": "2022-09-15T17:27:51.7912023Z"
+      },
+      {
+        "uid": 84,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.377394400S",
+        "enqueuedAt": "2022-09-15T17:27:50.5600078Z",
+        "startedAt": "2022-09-15T17:27:50.5663825Z",
+        "finishedAt": "2022-09-15T17:27:50.9437769Z"
+      },
+      {
+        "uid": 83,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.433564300S",
+        "enqueuedAt": "2022-09-15T17:27:49.9046282Z",
+        "startedAt": "2022-09-15T17:27:49.9110092Z",
+        "finishedAt": "2022-09-15T17:27:50.3445735Z"
+      },
+      {
+        "uid": 82,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.362144300S",
+        "enqueuedAt": "2022-09-15T17:27:49.1760027Z",
+        "startedAt": "2022-09-15T17:27:49.1825486Z",
+        "finishedAt": "2022-09-15T17:27:49.5446929Z"
+      },
+      {
+        "uid": 81,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "documentAdditionOrUpdate",
+        "details": { "receivedDocuments": 10000, "indexedDocuments": 10000 },
+        "duration": "PT0.259190900S",
+        "enqueuedAt": "2022-09-15T17:27:46.806745Z",
+        "startedAt": "2022-09-15T17:27:46.8135445Z",
+        "finishedAt": "2022-09-15T17:27:47.0727354Z"
+      },
+      {
+        "uid": 80,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "settingsUpdate",
+        "details": {
+          "searchableAttributes": ["title", "description"],
+          "filterableAttributes": ["soldOut"],
+          "sortableAttributes": ["created"]
+        },
+        "duration": "PT0.152190S",
+        "enqueuedAt": "2022-09-15T17:27:06.7220606Z",
+        "startedAt": "2022-09-15T17:27:06.7287627Z",
+        "finishedAt": "2022-09-15T17:27:06.8809527Z"
+      },
+      {
+        "uid": 79,
+        "indexUid": "products",
+        "status": "failed",
+        "type": "indexDeletion",
+        "details": { "deletedDocuments": 0 },
+        "error": {
+          "message": "Index `products` not found.",
+          "code": "index_not_found",
+          "type": "invalid_request",
+          "link": "https://docs.meilisearch.com/errors#index_not_found"
+        },
+        "duration": "PT0.006350100S",
+        "enqueuedAt": "2022-09-15T17:27:04.7820374Z",
+        "startedAt": "2022-09-15T17:27:04.7886881Z",
+        "finishedAt": "2022-09-15T17:27:04.7950382Z"
+      },
+      {
+        "uid": 78,
+        "indexUid": "products",
+        "status": "succeeded",
+        "type": "indexDeletion",
+        "details": { "deletedDocuments": 10000 },
+        "duration": "PT0.012616300S",
+        "enqueuedAt": "2022-09-15T17:27:02.3135083Z",
+        "startedAt": "2022-09-15T17:27:02.3234024Z",
+        "finishedAt": "2022-09-15T17:27:02.3360187Z"
+      }
+    ],
+    "limit": 30,
+    "from": 107,
+    "next": 77
+  }
+}
